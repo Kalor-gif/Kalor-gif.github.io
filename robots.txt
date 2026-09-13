@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kalor-gif.github.io/sitemap.xml
